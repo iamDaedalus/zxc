@@ -2,7 +2,7 @@
   "name": "ZXC[STREAM]",
   "short_name": "ZXC",
   "start_url": "https://movietzy.blogspot.com/",
-  "display": "fullscreen",
+  "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
